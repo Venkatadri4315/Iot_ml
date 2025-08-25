@@ -3,4 +3,3 @@ numpy
 scikit-learn
 flask
 gunicorn
-poetry add gunicorn
